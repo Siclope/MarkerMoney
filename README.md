@@ -1,2 +1,2 @@
 # MarkerMoney
-Mod setar dinheiro quando entrar em um marker.
+Mod de setar dinheiro quando o jogador entrar em um marker.
